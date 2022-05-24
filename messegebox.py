@@ -4,7 +4,7 @@ from tkinter import messagebox
 
 
 # メッセージボックス（情報） 
-messagebox.showinfo("タイトル", "メッセージ内容")
+messagebox.showinfo("Title", "メッセージ内容")
 
 # メッセージボックス（警告） 
 messagebox.showwarning("タイトル", "メッセージ内容")
