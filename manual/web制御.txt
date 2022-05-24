@@ -1,0 +1,2 @@
+Selenium
+SeleniumはWebブラウザの操作を自動化するドライバです。
